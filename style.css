@@ -1,0 +1,114 @@
+body {
+  background-color: rgb(48, 48, 48);
+  font-family: 'Montserrat', sans-serif;
+  background-size: cover;
+}
+.sidenav {
+  background-color: rgb(24, 24, 24);
+  position: fixed;
+  text-decoration: none;
+  color: whitesmoke;
+  white-space: nowrap;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 25%;
+  z-index: 1;
+}
+nav ul li {
+  float: center;
+  margin-top: 60px;
+  list-style-type: none;
+  text-align: justify;
+}
+
+.brand {
+  white-space: nowrap;
+  text-decoration: none;
+  font-family: 'Varela', sans-serif;
+  color: whitesmoke;
+  font-size: 23pt;
+}
+.nav-link{
+  color: whitesmoke;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-link:hover {
+  color: gray;
+  font-weight: bold;
+
+}
+.brand:hover {
+  color: gray;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+h1 {
+  font-size: 60pt;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header-tag {
+  margin-top: 40px;
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 2px 2px 2px black;
+  font-family: 'Varela', sans-serif;
+ 
+}
+
+img{
+  margin-top: 200px;
+  margin-left: 55%;
+  border-radius: 50%;
+
+}
+
+h3.header-tag {
+  margin-top: -40px;
+  font-size: 18pt
+}
+h2{
+  color: whitesmoke;
+  text-align: center;
+}
+.main {
+  text-align: center;
+}
+
+h3{
+  color: whitesmoke;
+  text-align: center;
+}
+
+#about {
+  margin-top: 50px;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  color: whitesmoke;
+  text-align: left;
+  font-size: 13pt;
+}
+#about-picture {
+  width: 60;
+  float: right;
+}
+
+#cooking{
+  text-align: center;
+  margin-left: 30%;
+}
+
+#about-content {
+  float: center;
+  margin-left: 30%;
+  margin-right: 40%;
+}
+
+#video-projects{
+  margin-left: 25%;
+}
+
